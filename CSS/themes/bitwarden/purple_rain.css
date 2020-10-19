@@ -8,19 +8,19 @@
 /*                                                  88                                   */
 /*                                                  dP					 */
 
-/*		   		        Made by @gilbN & modified by youngspace			 */
+/*		   		        Made by @gilbN					 */
 /*			      https://github.com/gilbN/theme.park			 */
 
-/* BITWARDEN AQUAMARINE THEME */
+/* BITWARDEN PURPLE RAIN */
 @import url(https://gilbn.github.io/theme.park/CSS/themes/bitwarden/bitwarden-base.css);
 :root {
-  --main-bg-color: radial-gradient(ellipse at center, #47918a 0%, #0b3161 100%) center center/cover no-repeat fixed;
-  --modal-bg-color: radial-gradient(ellipse at top, #47918a 0%, #0b3161 100%) center center/cover no-repeat fixed;
-  --button-color: #009688;
-  --button-color-hover: #12afa0;
-  --accent-color:  #a627e9;
-  --accent-color-hover: #fff;
-  --text: #fcfcfc;
+  --main-bg-color: radial-gradient(ellipse at center, #8E2DE2 0%, #4A00E0 100%) center center/cover no-repeat fixed;
+  --modal-bg-color: radial-gradient(ellipse at top, #8E2DE2 0%, #4A00E0 100%) center center/cover no-repeat fixed;
+  --button-color: hsla(0,0%,100%,.15);
+  --button-color-hover: hsla(0,0%,100%,.30);
+  --accent-color:  #9214ff;
+  --accent-color-hover: #a84df7;
+  --text: #f7f7f7;
   --text-hover: #fff;
-  --link-color: #EEE;
+  --link-hover: #e636f4;
 }
